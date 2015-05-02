@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>Martin Spickermann</title>
+
+  <link rel="stylesheet" type="text/css" href="css/stackicons.css" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    .v-card {
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 4px;
+      color: #333333;
+      font-family: helvetica, sans-serif;
+      margin: 64px;
+      padding: 48px;
+      width: 50%;
+    }
+    h1, p {
+      padding: 0 0 16px 2px;
+    }
+    ul {
+      display: inline;
+    }
+    li {
+      display: inline;
+    }
+  </style>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-84896-7', 'auto');
+    ga('send', 'pageview');
+  </script>
+</head>
+<body>
+  <div class="v-card">
+    <h1>Martin Spickermann</h1>
+    <p>Senior Software Developer (Ruby on Rails) in Melbourne, Australia</p>
+    <ul>
+      <li><a class="st-icon-linkedin" href="https://www.linkedin.com/in/spickermann" title="Martin Spickermann on Linkedin">LinkedIn</a></li>
+      <li><a class="st-icon-github" href="https://github.com/spickermann" title="Martin Spickermann on GitHub">Github</a></li>
+      <li><a class="st-icon-stackoverflow" href="https://stackoverflow.com/users/2483313/spickermann" title="Martin Spickermann on stackoverflow">Stackoverflow</a></li>
+      <li><a class="st-icon-xing" href="https://www.xing.com/profile/martin_spickermann4" title="Martin Spickermann on XING">XING</a></li>
+      <li><a class="st-icon-facebook" href="https://www.facebook.com/spickermann" title="Martin Spickermann on Facebook">Facebook</a></li>
+      <li><a class="st-icon-googleplus" href="https://plus.google.com/102847483807560773644" title="Martin Spickermann on Google+">Google+</a></li>
+      <li><a class="st-icon-twitter" href="https://twitter.com/spickermann" title="Martin Spickermann on Twitter">Twitter</a></li>
+    </ul>
+  </div>
+
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="js/trianglify.js"></script>
+  <script>
+    var w = window,
+        d = document,
+        e = d.documentElement,
+        g = d.getElementsByTagName('body')[0],
+        x = w.innerWidth || e.clientWidth || g.clientWidth,
+        y = w.innerHeight|| e.clientHeight|| g.clientHeight;
+    var t = new Trianglify();
+    var pattern = t.generate(x, y);
+    document.body.setAttribute('style', 'background-image: '+pattern.dataUrl);
+  </script>
+</body>
+</html>

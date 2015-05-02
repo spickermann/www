@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/spickermann
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.spickermann.com
+  * I am spickermann (https://keybase.io/spickermann) on keybase.
+  * I have a public key with fingerprint 38D8 D438 A43B D6F5 88B1  80BF D461 0A5C 9AC5 CB5D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "38d8d438a43bd6f588b180bfd4610a5c9ac5cb5d",
+            "host": "keybase.io",
+            "key_id": "D4610A5C9AC5CB5D",
+            "uid": "42d383e006b0b8f13e58e9908ffea819",
+            "username": "spickermann"
+        },
+        "merkle_root": {
+            "ctime": 1427884135,
+            "hash": "dbad66b4357b54288dee35631bcdf0310351be1c07ab7c1dc0c775e99ae3601529001ede9f50543d11788cf28a2b518d00acf243e0205db1b9613263c5a67a8e",
+            "seqno": 187503
+        },
+        "service": {
+            "hostname": "www.spickermann.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1427884414,
+    "expire_in": 157680000,
+    "prev": "b80679b896254b953e4e926f16a567e5ccb91b3aa842f662d40694e4f3c05c33",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFVkntsFEUcxw/KEXuRgolAk5Z6rgESKefu7c7ubKliuSPSQvAi2hKEHDO7s72l
+d7vXe7T2cVUa5SEI5W2wBZQWuWJjK+VRY8WGGixoUR6lCLGAttpCUENSaYPV3aZG
+2L92Zj6/7+/7nd9UTUqw2MZdQraVe78+t2rcuX5seS2lo6KMwrpcQmWUUZJfJVrE
+/NNQgFAZVAEpwShMHKpu13SZONaE7WNMOlVEQmFV1wyKdggOgYqlm7hZrKhaPgkF
+Q6qpRbFQhjLHQsSxWOYVACFmII0VmeMZGgFJRBKQMJANSZ8ejjzSlRrV9Kqyses2
++SzgErNcwLUAuI2z6OgB55RZyBKa5jGNocKwBEAiijRUFIIgI5pgmITGIoWDqlRA
+QgGkaablAAkV+Ik3pOujuaWIalIM5xQg5BgWGKZQ2GfUyRjJPI85FggYcE4IZUJY
+wLMMlmSFZhmaBQwmjEQLCAsSI0u0JAjA8IEIy9MMcIo0zRCZiAqgAcfKDGN0kBQn
+RE4MGCjTNDJWnJHDSQMZM1jkGdbJsxJAvIAgMVKESaGmG+agAGg2Zq5DRapETN/m
+zY0FLC4udjwU0iHpAaM2GNIjuqT7DcAXiQQzzOyREyXB0QqCvWNaXqxqsjG+h+fL
+GOij98IxXDpF3giqIeJVTQIIPKSNz+xDigxJDGleEDEUeSfgsAhYwhHRySsMjwAv
+ECBJWGQwixDknArPO2WO5kWOcAor0UBi2f/TsoZPlG8OTs3XUCQaIlRs4/jUCZZx
+NstE63jzAVtsiVP+e9XelMn/LL71V/+1k5vqjnXujT6RsX6Sa/u77I7FmbnZm/3X
+KuuzNnsOrtavoqm/zfw+NT6sC42V13e0Hs9Mzz2a0jUvYajJHmgpSQ5WL/20tDeF
+VE7spip/vLlu+5FMbdYH9UfEGz/HH2vb2Sgt8Ld03l7Uc2TX4W1NZyNJ3PUe7++1
+6/vryeG23V2dzXNuLtfv4/KqnOnw14qU97KsrefP3D9u49SmwWxlKf/5iYS5Q/OF
+bOL481KrWPbJnZnLrc+s6WmL5NXdu3PA0+xY1pZ4Z/jq4wPVbt+qquc3vDSyOK9w
+Z+ISuvtY0ciHz3b5v3C/2rG/Yqhu7/B+5qu0M0WfbY1uinvzSpae//J++Yn8231d
+5TemXbswdaE0+WjNg5PWWMsrOd37rIN939U0NL89HPmh1pV2a5E4O3n1ui1JA1cK
+bjN2dGgovR5Is8rDpZ2WMHVv7r2Ft5Ar/OCd0ubU+faNH23LhNmeC/NurB2ekkAu
+frsi2HfoqV5vdY+7pca3J2m8O35Ja/rmeELuXc3lja72UQ2nV14eObp12nMbdj/5
+cenAgz+4ZE/epKS78Ypia5orvm/Dqdy8GdXzDw7+cvFppbc9kHPlxQmHkiwemxaI
+vl4Yqzh9trEwf0bvsiWxWdE3f1L+PtDRsbb9rYwL7d0rdu0ZPEXsL9wVLr+8xDvB
+U9N1pX1O4/sNA7Xbp5/esvFf
+=Gotb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spickermann
+
+==================================================================
