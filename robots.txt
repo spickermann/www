@@ -1,0 +1,16 @@
+# robots.txt for http://www.spickermann.com/
+
+User-agent: Baiduspider
+User-agent: bingbot
+User-agent: DuckDuckBot
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Mobile
+User-agent: ia_archiver
+User-agent: rogerbot
+User-agent: Teoma
+User-agent: Yandex
+Disallow:
+
+User-agent: *
+Disallow: /
