@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  background: url(bg.png) no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+  font-size: 1.44em
+}
+p {
+  margin: 16px 0;
+}
+a {
+  color: #333333;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.icons {
+  display: flex;
+  flex-flow: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+}
+.icons li {
+  display: inline-block;
+  width: 160px;
+}
+.icons span {
+  color: #666666;
+}
+.icons a {
+  display: block;
+  line-height: 64px;
+}
+.icons a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+.icons a:hover span {
+  color: #333333;
+}
+.v-card {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #333333;
+  font-family: helvetica, sans-serif;
+  line-height: 1.4;
+  width: 100%;
+  min-width: 320px;
+  padding: 48px 64px;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+@media screen and (min-width: 688px) {
+  .v-card {
+    border-radius: 4px;
+    width: 688px;
+    margin: 64px auto;
+  }
+}
+@media screen and (min-width: 816px) {
+  .v-card {
+    margin: 64px;
+  }
+}

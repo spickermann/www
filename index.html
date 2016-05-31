@@ -3,66 +3,12 @@
 <head>
   <meta charset="utf-8" />
   <title>Martin Spickermann | Senior Software Engineer</title>
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-    }
-    canvas {
-      position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 1;
-    }
-    .v-card {
-      background-color: rgba(255, 255, 255, 0.8);
-      border-radius: 4px;
-      color: #333333;
-      font-family: helvetica, sans-serif;
-      line-height: 1.4;
-      margin: 64px;
-      padding: 48px 64px;
-      width: 560px;
-      position: relative;
-      z-index: 2;
-    }
-    h1 {
-      font-size: 1.44em
-    }
-    p {
-      margin: 16px 0;
-    }
-    a {
-      color: #333333;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .icons {
-      list-style: none;
-    }
-    .icons li {
-      display: inline-block;
-      width: 32%;
-    }
-    .icons span {
-      color: #666666;
-    }
-    .icons a {
-      display: block;
-      line-height: 64px;
-    }
-    .icons a:hover {
-      color: #000000;
-      text-decoration: none;
-    }
-    .icons a:hover span {
-      color: #333333;
-    }
-  </style>
+
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -169,17 +115,5 @@
       </li>
     </ul>
   </div>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.2.0/trianglify.min.js"></script>
-  <script>
-    var pattern = Trianglify({
-        width: window.innerWidth,
-        height: window.innerHeight,
-        cell_size: 96,
-        variance: 0.85,
-        x_colors:  "YlGnBu"
-    });
-    document.body.appendChild(pattern.canvas())
-  </script>
 </body>
 </html>
