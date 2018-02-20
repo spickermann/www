@@ -1,4 +1,4 @@
-# robots.txt for http://www.spickermann.com/
+# robots.txt for https://www.spickermann.com/
 
 User-agent: Baiduspider
 User-agent: bingbot
