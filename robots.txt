@@ -7,7 +7,9 @@ User-agent: Googlebot
 User-agent: Googlebot-Image
 User-agent: Googlebot-Mobile
 User-agent: ia_archiver
+User-agent: Msnbot
 User-agent: rogerbot
+User-agent: Slurp
 User-agent: Teoma
 User-agent: Yandex
 Disallow:
