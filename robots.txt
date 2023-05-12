@@ -1,5 +1,7 @@
 # robots.txt for https://www.spickermann.com/
 
+User-agent: AhrefsBot
+User-agent: AhrefsSiteAudit
 User-agent: Baiduspider
 User-agent: bingbot
 User-agent: DuckDuckBot
