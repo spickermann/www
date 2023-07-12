@@ -18,3 +18,5 @@ Disallow:
 
 User-agent: *
 Disallow: /
+
+Sitemap: https://www.spickermann.com/sitemap.xml
