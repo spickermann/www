@@ -31,14 +31,14 @@ a:hover {
 }
 .icons li {
   display: inline-block;
-  width: 170px;
 }
 .icons span {
   color: #666666;
 }
 .icons a {
   display: block;
-  font-weight: normal;
+  font-weight: bold;
+  font-size: 0.66em;
   line-height: 64px;
 }
 .icons a:hover {
@@ -60,6 +60,11 @@ a:hover {
   width: 100%;
   position: relative;
   z-index: 2;
+}
+@media screen and (max-width: 588px) {
+  .icons span {
+    display: none;
+  }
 }
 @media screen and (min-width: 688px) {
   .v-card {
