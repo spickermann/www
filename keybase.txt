@@ -4,75 +4,49 @@ https://keybase.io/spickermann
 
 I hereby claim:
 
-  * I am an admin of http://www.spickermann.com
+  * I am an admin of https://www.spickermann.com
   * I am spickermann (https://keybase.io/spickermann) on keybase.
-  * I have a public key with fingerprint 38D8 D438 A43B D6F5 88B1  80BF D461 0A5C 9AC5 CB5D
+  * I have a public key ASCpcUveZSMRh2Ma4OmEeE89-yuOC7OGnqqa6nwV6ThX8Qo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.7"
-        },
-        "key": {
-            "fingerprint": "38d8d438a43bd6f588b180bfd4610a5c9ac5cb5d",
-            "host": "keybase.io",
-            "key_id": "D4610A5C9AC5CB5D",
-            "uid": "42d383e006b0b8f13e58e9908ffea819",
-            "username": "spickermann"
-        },
-        "merkle_root": {
-            "ctime": 1427884135,
-            "hash": "dbad66b4357b54288dee35631bcdf0310351be1c07ab7c1dc0c775e99ae3601529001ede9f50543d11788cf28a2b518d00acf243e0205db1b9613263c5a67a8e",
-            "seqno": 187503
-        },
-        "service": {
-            "hostname": "www.spickermann.com",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "01011a65d032db96497730197f34834bd305e670829e9335ced4ebfb78c1147d0ad30a",
+      "host": "keybase.io",
+      "kid": "0120a9714bde65231187631ae0e984784f3dfb2b8e0bb3869eaa9aea7c15e93857f10a",
+      "uid": "42d383e006b0b8f13e58e9908ffea819",
+      "username": "spickermann"
     },
-    "ctime": 1427884414,
-    "expire_in": 157680000,
-    "prev": "b80679b896254b953e4e926f16a567e5ccb91b3aa842f662d40694e4f3c05c33",
-    "seqno": 3,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1731314996,
+      "hash": "852e9cc1d425360a22534b61b8a420584d84b24ed814aad265033ba70a6871f29a12ab742ad2244e9e5cdac73b1eb420da21fb0706278290577b6df2c24b6194",
+      "hash_meta": "72486b30e2063683784697cfabd3005e5cda7d7272b18b8c5ceb70b7b59715c8",
+      "seqno": 26287755
+    },
+    "service": {
+      "entropy": "nT2mJQZBqhK9nYM/s96NSdzh",
+      "hostname": "www.spickermann.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.0"
+  },
+  "ctime": 1731315121,
+  "expire_in": 504576000,
+  "prev": "4c85f95a09c894a3bb7a2e4bdf3d115c09f8e2ef6c6473da8f2584db3b507cf0",
+  "seqno": 74,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Comment: GPGTools - https://gpgtools.org
-
-owFVkntsFEUcxw/KEXuRgolAk5Z6rgESKefu7c7ubKliuSPSQvAi2hKEHDO7s72l
-d7vXe7T2cVUa5SEI5W2wBZQWuWJjK+VRY8WGGixoUR6lCLGAttpCUENSaYPV3aZG
-2L92Zj6/7+/7nd9UTUqw2MZdQraVe78+t2rcuX5seS2lo6KMwrpcQmWUUZJfJVrE
-/NNQgFAZVAEpwShMHKpu13SZONaE7WNMOlVEQmFV1wyKdggOgYqlm7hZrKhaPgkF
-Q6qpRbFQhjLHQsSxWOYVACFmII0VmeMZGgFJRBKQMJANSZ8ejjzSlRrV9Kqyses2
-+SzgErNcwLUAuI2z6OgB55RZyBKa5jGNocKwBEAiijRUFIIgI5pgmITGIoWDqlRA
-QgGkaablAAkV+Ik3pOujuaWIalIM5xQg5BgWGKZQ2GfUyRjJPI85FggYcE4IZUJY
-wLMMlmSFZhmaBQwmjEQLCAsSI0u0JAjA8IEIy9MMcIo0zRCZiAqgAcfKDGN0kBQn
-RE4MGCjTNDJWnJHDSQMZM1jkGdbJsxJAvIAgMVKESaGmG+agAGg2Zq5DRapETN/m
-zY0FLC4udjwU0iHpAaM2GNIjuqT7DcAXiQQzzOyREyXB0QqCvWNaXqxqsjG+h+fL
-GOij98IxXDpF3giqIeJVTQIIPKSNz+xDigxJDGleEDEUeSfgsAhYwhHRySsMjwAv
-ECBJWGQwixDknArPO2WO5kWOcAor0UBi2f/TsoZPlG8OTs3XUCQaIlRs4/jUCZZx
-NstE63jzAVtsiVP+e9XelMn/LL71V/+1k5vqjnXujT6RsX6Sa/u77I7FmbnZm/3X
-KuuzNnsOrtavoqm/zfw+NT6sC42V13e0Hs9Mzz2a0jUvYajJHmgpSQ5WL/20tDeF
-VE7spip/vLlu+5FMbdYH9UfEGz/HH2vb2Sgt8Ld03l7Uc2TX4W1NZyNJ3PUe7++1
-6/vryeG23V2dzXNuLtfv4/KqnOnw14qU97KsrefP3D9u49SmwWxlKf/5iYS5Q/OF
-bOL481KrWPbJnZnLrc+s6WmL5NXdu3PA0+xY1pZ4Z/jq4wPVbt+qquc3vDSyOK9w
-Z+ISuvtY0ciHz3b5v3C/2rG/Yqhu7/B+5qu0M0WfbY1uinvzSpae//J++Yn8231d
-5TemXbswdaE0+WjNg5PWWMsrOd37rIN939U0NL89HPmh1pV2a5E4O3n1ui1JA1cK
-bjN2dGgovR5Is8rDpZ2WMHVv7r2Ft5Ar/OCd0ubU+faNH23LhNmeC/NurB2ekkAu
-frsi2HfoqV5vdY+7pca3J2m8O35Ja/rmeELuXc3lja72UQ2nV14eObp12nMbdj/5
-cenAgz+4ZE/epKS78Ypia5orvm/Dqdy8GdXzDw7+cvFppbc9kHPlxQmHkiwemxaI
-vl4Yqzh9trEwf0bvsiWxWdE3f1L+PtDRsbb9rYwL7d0rdu0ZPEXsL9wVLr+8xDvB
-U9N1pX1O4/sNA7Xbp5/esvFf
-=Gotb
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqXFL3mUjEYdjGuDphHhPPfsrjguzhp6qmup8Fek4V/EKp3BheWxvYWTESpcCSsQgTIX5WgnIlKO7ei5L3z0RXAn44u9sZHPajyWE2ztQfPDEILPe1h7KtNzAa4EMvJTr5iB0pQ91TySKqj07axN2iw6bAgHCo3NpZ8RA0+EGx+DGboKJpLbF7MacMnPsjhpSXprzRtyraVSDlgtFFjVSqMMDc5bcOri2nKzpvfFARMkX19I+gsmF9j3LBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIETulIzTFlKnc2h9JH6ZGJuqz61hZpPSveUpNkHnkgByo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.

@@ -8,10 +8,13 @@ html {
   background-size: cover;
 }
 h1 {
-  font-size: 1.44em
+  font-size: 1.44em;
+}
+h2 {
+  font-size: 1.2em;
 }
 p {
-  margin: 16px 0;
+  margin: 0.5em 0;
 }
 a {
   color: #555555;
@@ -22,30 +25,30 @@ a:hover {
   color: #000000;
   text-decoration: underline;
 }
-.icons {
+footer ul {
   display: flex;
   flex-flow: center;
   flex-wrap: wrap;
   justify-content: space-between;
   list-style: none;
 }
-.icons li {
+footer li {
   display: inline-block;
 }
-.icons span {
+footer span {
   color: #666666;
 }
-.icons a {
+footer a {
   display: block;
   font-weight: bold;
   font-size: 0.66em;
   line-height: 64px;
 }
-.icons a:hover {
+footer a:hover {
   color: #000000;
   text-decoration: none;
 }
-.icons a:hover span {
+footer a:hover span {
   color: #333333;
 }
 .v-card {
